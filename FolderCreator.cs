@@ -27,6 +27,7 @@ public class FolderCreator : EditorWindow
             "Fonts",
             "Materials",
             "Models",
+            "Others",
             "Prefabs",
             "Scenes",
             "Scripts",
